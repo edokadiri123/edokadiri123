@@ -1,5 +1,5 @@
-<h1 align="left">Hello 👋, I'm Kadiri Epiphany</h1>
-<h3 align="left">A passionate fullstack developer from Nigeria.</h3>
+<h1 align="left">Hello 👋, Nice to have you here</h1>
+<h3 align="left">I'm Kadiri Epiphany, a passionate self-taught fullstack developer and freelance software engineer from Nigeria. My passion lies in creating applications using the best/most appropriate system architecture and tools for efficiency.</h3>
 <img align="right" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&usqp=CAU" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edokadiri123&label=Profile%20views&color=0e75b6&style=flat" alt="edokadiri123" /> </p>
