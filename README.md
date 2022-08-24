@@ -1,4 +1,3 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxPEmh5YKO71KBi6OzcDHpZ5fHzi0cGfO0Wg&usqp=CAU)
 <h1 align="center">Hello 👋, I'm Kadiri Epiphany</h1>
 <h3 align="center">A passionate fullstack developer from Nigeria.</h3>
 <img align="right" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&usqp=CAU" />
