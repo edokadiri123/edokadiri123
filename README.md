@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edokadiri123&label=Profile%20views&color=0e75b6&style=flat" alt="edokadiri123" /> </p>
 
-- 🌱 I’m currently learning **Docker, Kubernetes**
+- 🌱 I’m currently learning **Docker, Kubernetes, HTML Canvas and WebGL**
 
 - 👨‍💻 All of my projects are available at [edokadiri.site](edokadiri.site)
 
